@@ -1,5 +1,5 @@
 # katie_portfolio
-Portfolio of work completed in my MSBA program
+[Portfolio of work](https://github.com/katieoconnor181/katie_portfolio) completed in my MSBA program
 
 ## Summary of Business Problem and Project Objective
 This project addressed Swire Coca-Cola's challenge of managing unexpected maintenance downtime, which impacts their production efficiency and revenue. The primary objective was to develop predictive tools for analyzing maintenance data, forecasting future trends, and identifying potential anomalies. These insights would empower the company to make data-driven decisions and improve operational planning, and ultimately aim to reduce maintenance costs.
